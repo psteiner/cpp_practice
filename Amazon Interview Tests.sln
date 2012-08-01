@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linear Array Search", "Linear Array Search\Linear Array Search.vcxproj", "{2F9C0C8C-66CC-4237-9547-1E21CBD1E2FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Find Max", "Find Max\Find Max.vcxproj", "{CF941EDD-3748-4FBC-A119-FE237971E572}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Insertion Sort", "Insertion Sort\Insertion Sort.vcxproj", "{486BC225-EC03-4169-BC97-F63A9B3BB053}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Merge Sort", "Merge Sort\Merge Sort.vcxproj", "{17734B58-6C67-43D3-9C51-50B55343377C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linked_List", "Linked_List\Linked_List.vcxproj", "{EA7DB03F-0C3C-494F-9FED-D94BF732FCB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9C0C8C-66CC-4237-9547-1E21CBD1E2FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2F9C0C8C-66CC-4237-9547-1E21CBD1E2FE}.Debug|Win32.Build.0 = Debug|Win32
+		{2F9C0C8C-66CC-4237-9547-1E21CBD1E2FE}.Release|Win32.ActiveCfg = Release|Win32
+		{2F9C0C8C-66CC-4237-9547-1E21CBD1E2FE}.Release|Win32.Build.0 = Release|Win32
+		{CF941EDD-3748-4FBC-A119-FE237971E572}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF941EDD-3748-4FBC-A119-FE237971E572}.Debug|Win32.Build.0 = Debug|Win32
+		{CF941EDD-3748-4FBC-A119-FE237971E572}.Release|Win32.ActiveCfg = Release|Win32
+		{CF941EDD-3748-4FBC-A119-FE237971E572}.Release|Win32.Build.0 = Release|Win32
+		{486BC225-EC03-4169-BC97-F63A9B3BB053}.Debug|Win32.ActiveCfg = Debug|Win32
+		{486BC225-EC03-4169-BC97-F63A9B3BB053}.Debug|Win32.Build.0 = Debug|Win32
+		{486BC225-EC03-4169-BC97-F63A9B3BB053}.Release|Win32.ActiveCfg = Release|Win32
+		{486BC225-EC03-4169-BC97-F63A9B3BB053}.Release|Win32.Build.0 = Release|Win32
+		{17734B58-6C67-43D3-9C51-50B55343377C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17734B58-6C67-43D3-9C51-50B55343377C}.Debug|Win32.Build.0 = Debug|Win32
+		{17734B58-6C67-43D3-9C51-50B55343377C}.Release|Win32.ActiveCfg = Release|Win32
+		{17734B58-6C67-43D3-9C51-50B55343377C}.Release|Win32.Build.0 = Release|Win32
+		{EA7DB03F-0C3C-494F-9FED-D94BF732FCB3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA7DB03F-0C3C-494F-9FED-D94BF732FCB3}.Debug|Win32.Build.0 = Debug|Win32
+		{EA7DB03F-0C3C-494F-9FED-D94BF732FCB3}.Release|Win32.ActiveCfg = Release|Win32
+		{EA7DB03F-0C3C-494F-9FED-D94BF732FCB3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
